@@ -20,4 +20,7 @@ Version:
 8.6.0 <- My NODE Version
 ```
 
+Demo : [https://react-redux-jsonplaceholder.herokuapp.com/](https://react-redux-jsonplaceholder.herokuapp.com/)
+
+
 Author : Prima Yudantra // <prima.yudantra@gmail.com>
